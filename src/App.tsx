@@ -6,7 +6,6 @@ import {Character} from "./interfaces/Character"
 
 const MainDiv=styled.div`
   color: lightpink;
-
 `;
 
 const CharactersDiv=styled.div`
